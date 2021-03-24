@@ -1,4 +1,4 @@
-css3实现彩色动画字体
+# css3实现彩色动画字体
 1. 安装
 ``` 
 npm install vue-colorful-font
@@ -37,7 +37,7 @@ export default {
 
 
 
-based on css3,colorful animate font
+# based on css3,colorful animate font
 1. install
 ``` 
 npm install vue-colorful-font
