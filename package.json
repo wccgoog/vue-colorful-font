@@ -1,0 +1,24 @@
+{
+  "name": "vue-colorful-font",
+  "version": "1.0.2",
+  "description": "",
+  "main": "ColorfulFont.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wccgoog/vue-colorful-font.git"
+  },
+  "keywords": [
+    "vue",
+    "colorful",
+    "colorfulFont"
+  ],
+  "author": "wccgoog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wccgoog/vue-colorful-font/issues"
+  },
+  "homepage": "https://github.com/wccgoog/vue-colorful-font#readme"
+}
